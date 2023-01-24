@@ -1,0 +1,41 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin:0;
+    padding:0;
+    background-color: #CFF5E7;
+}
+header{
+    background-color: black;
+    padding: 10px;
+}
+header nav a:hover{
+    background-color: #156ee2;
+
+}
+.names{
+    color:#863A6F;
+}
+header nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+}
+ ul {
+    list-style-type: none;
+}
+.names{
+    text-decoration: none;
+}
+.images{
+    padding:50px;
+    text-align: center;
+    margin-top: 50px;
+    font:  14px arial, sans-serif;
+    font-size:  bold medium;
+    
+}
+.img{
+    border: 2px solid #863A6F;
+}
